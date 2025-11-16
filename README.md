@@ -1,4 +1,4 @@
-##💫 Hi, I'm Ashok Chaturvedi
+#💫 Hi, I'm Ashok Chaturvedi
 **AI & ML Student | Full-Stack Developer | ML & Data Analysis Enthusiast**
 
 I'm pursuing B.Tech in **Computer Science (AI & ML)**.  
@@ -44,5 +44,3 @@ REST APIs
 
 ### ✨ Personal Motto
 > *“Build slowly, learn deeply, and stay consistent.”*<!--
-**Ashu07017/Ashu07017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
