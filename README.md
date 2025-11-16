@@ -11,6 +11,10 @@
   <em>AI & ML Student • Full-Stack Developer • ML & Data Analysis Enthusiast</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</p>
+
 ---
 
 
@@ -25,6 +29,10 @@ Node.js · Express.js · React (MERN)
 MongoDB (Compass, Atlas)  
 REST APIs  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</p>
+
 ---
 
 ## 🎯 Current Interests
@@ -33,11 +41,9 @@ REST APIs
 - Backend architecture  
 - ML + full-stack integrated projects  
 
----
-
-## 📫 Contact
-**LinkedIn:** https://www.linkedin.com/in/ashok-chaturvedi-6745a6288  
-**Email:** chaturvediashok0805@gmail.com  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</p>
 
 ---
 
@@ -49,7 +55,6 @@ REST APIs
   <img src="https://github-readme-stats.vercel.app/api?username=Ashu07017&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu07017&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
