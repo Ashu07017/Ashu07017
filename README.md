@@ -50,3 +50,9 @@ REST APIs
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu07017&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</p>
+
+
