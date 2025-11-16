@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ashu07017/Ashu07017/main/neon-lights2.png"
-       width="100%"
+       width="70%"
        style="max-width:900px; height:auto; object-fit:cover; border-radius:10px;" />
 </p>
 
