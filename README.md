@@ -31,7 +31,7 @@ REST APIs
 
 ---
 
-## 🎯 Current Interests
+## 🌱 Currently learning:   
 - Machine Learning & model building  
 - Data analysis workflows (Python, R, SPSS, OriginPro)  
 - Backend architecture  
