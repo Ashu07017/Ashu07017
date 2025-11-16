@@ -1,3 +1,7 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashu07017/Ashu07017/main/glow-banner.png" width="100%" />
+</p>
 💫 Hi, I'm Ashok Chaturvedi
 **AI & ML Student | Full-Stack Developer | ML & Data Analysis Enthusiast**
 
