@@ -22,7 +22,6 @@
 
 ### **AI / ML / Data**
 Python · NumPy · Pandas · Scikit-Learn  
-IBM SPSS Modeler · OriginPro · R · Jupyter Notebook  
 
 ### **Backend / Full-Stack**
 Node.js · Express.js · React (MERN)  
