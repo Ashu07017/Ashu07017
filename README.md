@@ -1,4 +1,4 @@
-#💫 Hi, I'm Ashok Chaturvedi
+💫 Hi, I'm Ashok Chaturvedi
 **AI & ML Student | Full-Stack Developer | ML & Data Analysis Enthusiast**
 
 I'm pursuing B.Tech in **Computer Science (AI & ML)**.  
