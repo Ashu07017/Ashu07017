@@ -13,12 +13,6 @@
 
 ---
 
-<!-- Center Aesthetic Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1526378722370-1d8c7ed46a3d?q=80&w=1200" width="350px" />
-</p>
-
----
 
 ## 🚀 Skills & Tools
 
