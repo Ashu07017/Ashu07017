@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashu07017/Ashu07017/main/neon-lights.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ashu07017/Ashu07017/main/neon-lights.png" width="100%" height="180px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 <h1 align="center">💫 Hi, I'm <strong>Ashok Chaturvedi</strong></h1>
