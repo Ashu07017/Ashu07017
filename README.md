@@ -29,10 +29,6 @@ Node.js · Express.js · React (MERN)
 MongoDB (Compass, Atlas)  
 REST APIs  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
-</p>
-
 ---
 
 ## 🎯 Current Interests
@@ -40,10 +36,6 @@ REST APIs
 - Data analysis workflows (Python, R, SPSS, OriginPro)  
 - Backend architecture  
 - ML + full-stack integrated projects  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
-</p>
 
 ---
 
