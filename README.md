@@ -40,12 +40,12 @@ REST APIs
 ---
 
 <p align="center">
-  <em>“Build slowly, learn deeply, and stay consistent.”</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashu07017&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu07017&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashu07017&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu07017&layout=compact&theme=tokyonight" height="160"/>
+  <em>“Build slowly, learn deeply, and stay consistent.”</em>
 </p>
 
 <p align="center">
